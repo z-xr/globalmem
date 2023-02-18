@@ -6,3 +6,4 @@
 #include <linux/uaccess.h>
 
 int main()
+	printf("this is zhaoxr\n")
